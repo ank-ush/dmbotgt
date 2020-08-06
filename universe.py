@@ -54,5 +54,5 @@ async def on_ready():
     print('Created by Users')
     
     
-client.run("NzAyNTMwMzcxNzYxMzQwNDI4.XqBYZQ.oCKFre095BzR2s7BBxBoXBO3x6o")                
+client.run("NzQwODY3NDYzMDIwODA2MTg2.XyvQlw.NyojkP4W-XRgkUgQTF1P32efS-A")                
 
